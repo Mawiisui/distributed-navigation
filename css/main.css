@@ -1,0 +1,44 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-size: 2em;
+  background-color: #fff;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+img {
+  width: 2rem;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+ul li {
+  margin: .5rem;
+  color: #0074d9;
+  font-size: 1.125rem;
+}
+
+body {
+  margin: 0;
+}
+
+header p {
+  font-style: italic;
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+}
