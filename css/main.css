@@ -41,4 +41,6 @@ a:hover {
 
 header {
   display: flex;
+  justify-content: center;
+  align-items: flex-start;
 }
