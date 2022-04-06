@@ -60,3 +60,10 @@ nav ul {
 nav a {
   margin: 0 .5em;
 }
+
+header img {
+  padding: 1em;
+  text-align: center;
+  position: relative;
+  margin: 0 auto;
+}
